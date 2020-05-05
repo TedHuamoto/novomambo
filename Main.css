@@ -1,0 +1,30 @@
+/* ID */
+
+body {
+  background-color: rgba(10, 10, 200, 0.33);
+}
+
+.banner {
+  background: rgb(128, 68, 0);
+}
+#H:hover {
+  background: red;
+  transition-property: background;
+  transition-duration: 0.5s;
+}
+
+h1 {
+  color: yellow;
+  text-decoration: tomato;
+  text-transform: capitalize;
+}
+
+#pdt {
+  color: yellow;
+  background-color: red;
+}
+
+div {
+  color: white;
+  background-color: black;
+}
